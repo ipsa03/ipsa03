@@ -22,7 +22,7 @@
 - Created visualizations to analyze survival patterns
 - Tools: Python, Pandas, Seaborn
 
-🔗 Project Link: (Add your GitHub repo link here)
+🔗 Project Link: [(Add your GitHub repo link here)](https://github.com/ipsa03/Titanic-Data-Analysis.git)
 
 ---
 
