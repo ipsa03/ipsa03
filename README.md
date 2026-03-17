@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Ipsa Pratibimbita
 
-<!--
-**ipsa03/ipsa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Interested in Data Science, Python & Software Development  
+📊 Currently working on Data Analysis Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python 🐍
+- Pandas & NumPy
+- Data Visualization (Matplotlib, Seaborn)
+- Basic Machine Learning
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🚢 Titanic Data Analysis
+- Performed data cleaning and missing value handling
+- Created visualizations to analyze survival patterns
+- Tools: Python, Pandas, Seaborn
+
+🔗 Project Link: (Add your GitHub repo link here)
+
+---
+
+## 📈 Currently Learning
+- Machine Learning
+- Advanced Python
+- Data Analytics
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ *Thank you for visiting my profile!*
